@@ -1,0 +1,27 @@
+h3.especifico {
+    padding-top: 9.4rem;
+    margin-bottom: 3.2rem;
+}
+
+div.section__div {
+    display: flex;
+    margin-bottom: 3.2rem;
+    align-items: center;
+}
+
+.span__trabalho {
+    color: #C56E1D;
+}
+
+.article__trabalho {
+    margin-left: 5.9rem;
+}
+
+.article__trabalho1 {
+    padding-top: 14.0rem;
+}
+
+.bloco__3 {
+    padding-top: 17.2rem;
+    margin-bottom: 25.2rem;
+}

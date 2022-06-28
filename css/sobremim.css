@@ -1,0 +1,19 @@
+.div__test {
+    display: flex;
+    margin-bottom: 12.9rem;
+}
+
+.section__h3 {
+    margin-top: 10.0rem;
+    font-size: 4.8rem;
+    line-height: 6.2rem;
+    margin-bottom: 3.2rem;
+}
+.article__p1{
+    font-size: 1.8rem;
+    line-height: 2.4rem;
+    margin-bottom: 1.6rem;
+    margin-right: 12.7rem;
+    align-items: center;
+    margin-top: 2.4rem;
+}

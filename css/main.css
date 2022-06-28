@@ -1,0 +1,99 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 4.5rem;
+    margin-bottom: 17.0rem;
+}
+
+.container {
+    max-width: 118.4rem;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 2.4rem;
+}
+
+.section__h2,
+.section__p1,
+.section__p2 {
+    color: #E0E6EA;
+}
+
+.section__trabalho,
+.section__contato {
+    background-color: #2D3142;
+}
+
+.p__trabalho,
+.especifico,
+.h3__contato,
+.li__contato {
+    color: white;
+}
+
+h1,
+.section__h3,
+.h3__reference,
+.h3__contato,
+.p__footer {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 700;
+}
+
+.header__list,
+.p__trabalho2 {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 500;
+}
+
+.section__h2,
+.article__p11,
+.p__trabalho3,
+.li__reference,
+.li__contato {
+    font-family: 'Heebo', sans-serif;
+    font-weight: 400;
+}
+
+.section__p1,
+.section__p2,
+.span__contato {
+    font-family: 'Heebo', sans-serif;
+    font-weight: 500;
+}
+
+.refencia__list {
+    font-family: 'Heebo', sans-serif;
+    font-weight: 700;
+}
+
+.p__design {
+    font-family: 'Heebo', sans-serif;
+    font-weight: 800;
+}
+
+.article__p11,
+.h3__reference,
+.ul__referece,
+.p__design,
+.end,
+.h3__sobremim {
+    color: #2D3142;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.links {
+    text-decoration: none;
+}

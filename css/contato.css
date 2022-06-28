@@ -1,0 +1,25 @@
+ .div__contato {
+     display: block;
+ }
+ 
+ .h3__contato {
+     margin-bottom: 3.2rem;
+     padding-top: 4.2rem;
+     font-size: 4.0rem;
+     line-height: 5.8rem;
+ }
+ 
+ .ol__contato {
+     list-style: none;
+ }
+ 
+ .li__contato {
+     font-size: 3.2rem;
+     line-height: 5.8rem;
+     margin-bottom: 2.4rem;
+     padding-left: 1.9rem;
+ }
+ 
+ .li__contatos {
+     padding-bottom: 6.9rem;
+ }

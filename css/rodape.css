@@ -1,0 +1,23 @@
+.p__design{
+    font-size: 2.4rem;
+    line-height: 5.8rem;
+}
+.conjunto__div {
+    display: flex;
+    justify-content: space-between;
+}
+.conjunto__div2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.p__footer{
+    font-size: 2.0rem;
+line-height: 5.8rem;
+}
+.back{
+    color: #C56E1D;
+}
+.end{
+    margin-bottom: 3.5rem;
+}

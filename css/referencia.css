@@ -1,0 +1,26 @@
+.h3__reference {
+    font-size: 4.0rem;
+    line-height: 5.8rem;
+    margin-bottom: 7.4rem;
+}
+
+.div__refernce {
+    justify-content: space-between;
+    display: flex;
+}
+
+.ul__referece {
+    display: inline-block;
+}
+
+.refencia__list {
+    font-size: 3.6rem;
+    line-height: 5.8rem;
+    margin-bottom: 1.6rem;
+}
+
+.li__reference {
+    font-size: 3.2rem;
+    line-height: 5.8rem;
+    margin-bottom: 9.0rem;
+}
